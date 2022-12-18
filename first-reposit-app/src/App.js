@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>This heading is added from my repository</h1>
       <h1>This is second heading from local repository</h1>
+    <h1>This headind is written in github<h1>
     </div>
   );
 }
